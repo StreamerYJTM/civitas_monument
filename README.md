@@ -28,6 +28,7 @@ CIVITAS是[陈约翰](https://www.sesp.northwestern.edu/learning-sciences/john-y
 - cityStatistics.xlsx 是几个主要城市的经济数据统计 城市ID和城市名的对应关系在表格第二个sheet
 - civitasPeoples.csv是用户表，从ID1到ID48531,包含了 用户名	等级	省籍	文化	文化组	关系数目	演讲数目	邀请人数等信息
 - 比较可惜的是，虽然我个人保存了非常多的抄本(可能是civitas中最多的)，但是忘记备份了。**抄本**是civitas的精华，是无数公民智慧的结晶。如果任何人保存了任何抄本信息可以直接在这个项目中更新，或者联系[项目作者](yujintumi@qq.com)，聚沙成塔，集腋成裘。
+  - 2021-01-31更新： 感谢由咸蛋(ID 1810) 贡献了一部分抄本，位于Books
 
 ## 昔日剪影
 ![抄本](./photos/books.jpg)
@@ -40,9 +41,9 @@ CIVITAS是[陈约翰](https://www.sesp.northwestern.edu/learning-sciences/john-y
 ![本项目作者的技能](./photos/self.png)
 ![技能](./photos/skill.png)
 ![一次工作](./photos/work.jpg)
-
+![应聘](./photos/jobs.jpg)
 ## 关于后续
- - 显然，目前civitas已经停止活动了，但是故事并没有结束。 
+ - 显然，目前civitas已经停止活动了，但又未必是这样，故事并没有结束。 
    - 假如你是civitas昔日的公民，能够说服[原制作者](YuehanChen2023@u.northwestern.edu)开源此项目，[本项目作者](yujintumi@qq.com)可以提供稳定的服务器托管服务，让civitas重新跑起来。
    - 假如你有重新/继续开发的意愿, 亦可以联系原作者和本项目作者，七八年过去了，许多新的框架将使得开发更为简单，本项目作者将尽力配合你的工作。
    - 假如你不会写代码，但是有其他这里未收集的记忆(抄本、集团信息等)，亦可以联系作者更新此仓库。
