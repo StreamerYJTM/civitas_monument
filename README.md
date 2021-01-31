@@ -42,6 +42,7 @@ CIVITAS是[陈约翰](https://www.sesp.northwestern.edu/learning-sciences/john-y
 ![技能](./photos/skill.png)
 ![一次工作](./photos/work.jpg)
 ![应聘](./photos/jobs.jpg)
+![脚本/赶尸机](./photos/auto.png)
 ## 关于后续
  - 显然，目前civitas已经停止活动了，但又未必是这样，故事并没有结束。 
    - 假如你是civitas昔日的公民，能够说服[原制作者](YuehanChen2023@u.northwestern.edu)开源此项目，[本项目作者](yujintumi@qq.com)可以提供稳定的服务器托管服务，让civitas重新跑起来。
